@@ -1,0 +1,52 @@
+body {
+    
+    /* margin: 0; */
+}
+.header-section{
+    position: relative;
+    top: -50px;
+    z-index: -1;
+}
+.left-background,
+.right-background {
+    height: 100vh;
+}
+
+.left-background {
+    background-color: #010A43;
+}
+
+.right-background {
+    background-color: #FFC2C2;
+}
+
+.shop-tag {
+    color: #fff;
+    font-size: 4.5rem;
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
+    height: 100vh;
+    text-align: center;
+    position: absolute;
+    left: 130px;
+    font-family: 'Tinos', serif;
+    line-height: 80%;
+}
+.shop-name{
+    color: transparent;
+    font-size: 7rem;
+    height: 100vh;
+    transform: rotate(0deg);
+    writing-mode: vertical-rl;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    -webkit-text-stroke: 2px #010A43;
+    position: absolute;
+    right: 130px;
+}
+.background-image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+}

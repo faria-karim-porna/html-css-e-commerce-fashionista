@@ -1,0 +1,42 @@
+.logo{
+    border: 1px solid #fff;
+    width: fit-content;
+    border-radius: 5px;
+}
+.navigation-menu{
+    color: #fff;
+    background-color: red;
+    height: 50px;
+    font-family: 'Tinos', serif;
+    font-weight: bold;
+}
+@media (min-width: 767.99px) {
+    .navbar-desktop{
+        display: block;
+    }
+    .navbar-mobile{
+        display: none;
+    }
+}
+@media (max-width: 767.98px) { 
+    .navbar-desktop{
+        display: none;
+    }
+    .navbar-mobile{
+        display: block;
+    }
+    .nav__menu {
+        position: fixed;
+        top: 3rem;
+        left: -100%;
+        background-color: rgba(1, 10, 67, 0.8);
+        width: 80%;
+        height: 100vh;
+        margin: auto;
+        padding: 2rem;
+        transition: .5s;
+    }
+    .show{
+        left: 0;
+    }
+ }
