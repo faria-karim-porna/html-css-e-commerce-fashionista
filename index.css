@@ -22,6 +22,7 @@ body {
 .main-body{
     background-image: url("images/background.png");
     background-repeat: no-repeat;
+    width: 100vw;
 }
 .shop-tag {
     color: #fff;
