@@ -1,56 +1,46 @@
 body {
-    
     overflow-x: hidden;
 }
-.header-section{
-    position: relative;
-    top: -50px;
-    z-index: -1;
+.header-section {
+  z-index: -1;
+  height: 100vh;
+  background: linear-gradient(90deg, #010a43 50%, #ffc2c2 50%);
+  width: 100%;
+  
 }
-.left-background,
-.right-background {
-    height: 100vh;
-}
-
-.left-background {
-    background-color: #010A43;
-}
-
-.right-background {
-    background-color: #FFC2C2;
-}
-.main-body{
-    background-image: url("images/background.png");
-    background-repeat: no-repeat;
-    width: 100vw;
+.main-body {
+  background-image: url("images/background.png");
+  background-repeat: no-repeat;
+  width: 100vw;
+  /* margin-top: -1px; */
 }
 .shop-tag {
-    color: #fff;
-    font-size: 4.5rem;
-    transform: rotate(180deg);
-    writing-mode: vertical-rl;
-    height: 100vh;
-    text-align: center;
-    position: absolute;
-    left: 130px;
-    font-family: 'Tinos', serif;
-    line-height: 80%;
+  color: #fff;
+  font-size: 4.5rem;
+  transform: rotate(180deg);
+  writing-mode: vertical-rl;
+  height: 100vh;
+  text-align: center;
+  position: absolute;
+  left: 130px;
+  font-family: "Tinos", serif;
+  line-height: 80%;
 }
-.shop-name{
-    color: transparent;
-    font-size: 7rem;
-    height: 100vh;
-    transform: rotate(0deg);
-    writing-mode: vertical-rl;
-    text-align: center;
-    font-family: 'Dancing Script', cursive;
-    -webkit-text-stroke: 2px #010A43;
-    position: absolute;
-    right: 130px;
+.shop-name {
+  color: transparent;
+  font-size: 7rem;
+  height: 100vh;
+  transform: rotate(0deg);
+  writing-mode: vertical-rl;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  -webkit-text-stroke: 2px #010a43;
+  position: absolute;
+  right: 130px;
 }
-.background-image{
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
 }

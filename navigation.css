@@ -4,6 +4,7 @@
     border-radius: 5px;
 }
 .navigation-menu{
+    background-color: transparent;
     color: #fff;
     height: 50px;
     font-family: 'Tinos', serif;
