@@ -4,6 +4,23 @@ body {
   z-index: -1;
   height: 100vh;
   background: linear-gradient(90deg, #010a43 50%, #ffc2c2 50%);
+  animation: example 2s 1;
+  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+@keyframes example {
+  0% {
+    background: linear-gradient(to right, #010a43 10%, #ffffff 10% 50%, #ffc2c2 50% 60%, #ffffff 60%);
+  }
+  25% {
+    background: linear-gradient(to right, #010a43 25%, #ffffff 25% 50%, #ffc2c2 50% 75%, #ffffff 75%);
+  }
+  50% {
+    background: linear-gradient(to right, #010a43 40%, #ffffff 40% 50%, #ffc2c2 50% 90%, #ffffff 90%);
+  }
+  100% {
+    background: linear-gradient(90deg, #010a43 50%, #ffc2c2 50%);
+  }
 }
 .main-body {
   background-image: linear-gradient(
