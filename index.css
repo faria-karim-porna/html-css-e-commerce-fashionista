@@ -4,13 +4,22 @@ body {
   z-index: -1;
   height: 100vh;
   background: linear-gradient(90deg, #010a43 50%, #ffc2c2 50%);
-  
 }
 .main-body {
-  background-image: url("images/background.png");
-  background-repeat: no-repeat;
-  background-position-x: center;
-  margin-top: 30px;
+  background-image: linear-gradient(
+    to right,
+    #010a43,
+    #635b86,
+    #bebacd,
+    #ffffff,
+    #ffffff,
+    #ffffff,
+    #ffffff,
+    #ffffff,
+    #f9f1fb,
+    #fcd9e7,
+    #ffc2c2
+  );
 }
 .shop-tag {
   color: #fff;
