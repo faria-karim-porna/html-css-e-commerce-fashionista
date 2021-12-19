@@ -196,4 +196,37 @@ body {
   top: 0;
   left: 0;
   height: 100%;
+  opacity: 1;
+  animation: headerBackgroundImageAnimation 1s 0s 1, backgroundImageFloatUpAnimation 1s 1s 1;
+}
+
+@keyframes headerBackgroundImageAnimation {
+  0% {
+    opacity: 0;
+  }
+  
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes backgroundImageFloatUpAnimation {
+  0% {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity: 0.25;
+  }
+  50%
+  {
+    opacity: 0.5;
+  }
+  75%
+  {
+    opacity: 0.75;
+  }
+  100% {
+    opacity: 1;
+  }
 }
