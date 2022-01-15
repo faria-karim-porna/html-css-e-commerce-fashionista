@@ -1,13 +1,18 @@
+* {
+  font-family: "Dancing Script", cursive;
+}
 input[type="text"],
 input[type="tel"],
 input[type="email"],
 input[type="password"] {
   padding: 12px;
-  border-radius: 4px;
-  box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  font-family: "Dancing Script", cursive;
+  border: none;
+  border-bottom: 1px solid white;
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
 }
 
 input[type="submit"] {
@@ -17,12 +22,22 @@ input[type="submit"] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  font-family: "Dancing Script", cursive;
   border: 1px solid white;
+  font-size: 28px;
+  font-weight: 700;
 }
 
+::placeholder {
+  color: white;
+  font-size: 20px;
+}
 input[type="submit"]:hover {
-  background-color: #45a049;
+  background-color: #010a43;
+  color: #ffc2c2;
+}
+
+input:focus {
+  outline: none !important;
 }
 
 .main-form-body {
@@ -36,11 +51,21 @@ input[type="submit"]:hover {
 }
 
 .form-shop-name {
-  font-family: "Dancing Script", cursive;
   color: white;
   font-size: 3.5rem;
 }
 
 .form-page {
   background: linear-gradient(45deg, #010a43 50%, #ffc2c2 50%);
+}
+
+.form-text {
+  color: white;
+  font-size: 18px;
+}
+
+.form-link-text {
+  color: #ffc2c2;
+  text-decoration: underline;
+  cursor: pointer;
 }
