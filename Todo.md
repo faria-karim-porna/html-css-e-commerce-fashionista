@@ -6,21 +6,21 @@ index3.html
 
 1. Product Details Page ( https://www.youtube.com/watch?v=0-NF3JMs4E8&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD )
 2. Category Product Page
-3. 404 Page ( https://www.youtube.com/watch?v=0-NF3JMs4E8&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD )
-4. Seller Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
-5. Seller Information Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
-6. Seller Dashboard Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
-7. Add Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
-8. Edit Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
-9. Delete Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
-10. Cart Page ( https://www.youtube.com/watch?v=Smtg4zFvjz0&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=4 )
-11. Checkout Page ( https://www.youtube.com/watch?v=Smtg4zFvjz0&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=4 )
+3. Seller Information Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
+4. Seller Dashboard Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
+5. Add Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
+6. Edit Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
+7. Delete Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
+8. Cart Page ( https://www.youtube.com/watch?v=Smtg4zFvjz0&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=4 )
+9. Checkout Page ( https://www.youtube.com/watch?v=Smtg4zFvjz0&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=4 )
 
 # Done
 
 1. Landing Page
 2. Sign Up Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
 3. Log In page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
+4. 404 Page ( https://www.youtube.com/watch?v=0-NF3JMs4E8&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD )
+5. Seller Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
 
 # Extra
 
@@ -30,7 +30,7 @@ index3.html
 
 # Forms
 
-=> 4, 5, 7, 9, 13
+=> 3, 5, 9
 
 # Time Required
 
