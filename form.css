@@ -18,7 +18,7 @@ input[type="password"] {
 input[type="submit"] {
   background-color: #ffc2c2;
   color: #010a43;
-  padding: 12px;
+  padding: 5px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -68,8 +68,8 @@ input:focus {
   cursor: pointer;
 }
 /* =============checkbox================ */
-/* The label */
-.label {
+/* The checkbox-container */
+.checkbox-container {
     display: block;
     position: relative;
     padding-left: 35px;
@@ -83,7 +83,7 @@ input:focus {
   }
   
   /* Hide the browser's default checkbox */
-  .label input {
+  .checkbox-container input {
     position: absolute;
     opacity: 0;
     cursor: pointer;
@@ -102,12 +102,12 @@ input:focus {
   }
   
   /* On mouse-over, add a grey background color */
-  .label:hover input ~ .checkmark {
+  .checkbox-container:hover input ~ .checkmark {
     background-color: #ccc;
   }
   
   /* When the checkbox is checked, add a blue background */
-  .label input:checked ~ .checkmark {
+  .checkbox-container input:checked ~ .checkmark {
     background-color: #ffc2c2;
   }
   
@@ -119,12 +119,12 @@ input:focus {
   }
   
   /* Show the checkmark when checked */
-  .label input:checked ~ .checkmark:after {
+  .checkbox-container input:checked ~ .checkmark:after {
     display: block;
   }
   
   /* Style the checkmark/indicator */
-  .label .checkmark:after {
+  .checkbox-container .checkmark:after {
     left: 9px;
     top: 7px;
     width: 7px;
