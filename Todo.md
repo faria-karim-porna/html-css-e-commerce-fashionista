@@ -6,8 +6,8 @@ index3.html
 
 1. Product Details Page ( https://www.youtube.com/watch?v=0-NF3JMs4E8&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD )
 2. Category Product Page
-3. Seller Information Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
-4. Seller Dashboard Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
+* 3. Seller Information Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
+* 4. Seller Dashboard Page ( https://www.youtube.com/watch?v=yYSfOe0QBOk&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=2 )
 5. Add Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
 6. Edit Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )
 7. Delete Product Page ( https://www.youtube.com/watch?v=V9lxabUi4Xo&list=PLqm86YkewF6S45smPYeNv01aFFKWZSgYD&index=3 )

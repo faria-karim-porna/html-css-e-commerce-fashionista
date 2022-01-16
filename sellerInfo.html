@@ -19,30 +19,55 @@
     <title>Fashionista</title>
   </head>
 
-  <body>
-    <!-- form start -->
-    <div class="container">
-      <form action="">
-        <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name.." />
-
-        <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
-
-        <label for="country">Country</label>
-        <select id="country" name="country">
-          <option value="australia">Australia</option>
-          <option value="canada">Canada</option>
-          <option value="usa">USA</option>
-        </select>
-
-        <label for="subject">Subject</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height: 200px"></textarea>
-
-        <input type="submit" value="Submit" />
-      </form>
+  <body class="form-page">
+    <!-- main body start -->
+    <div class="main-form-body d-flex d-flex justify-content-center align-items-center align-items-center">
+      <div class="w-75 p-4">
+        <p class="form-shop-name text-center">fashionista</p>
+        <!-- form start -->
+        <div class="d-flex justify-content-center align-items-center">
+          <div class="w-100">
+            <form action="" class="d-flex justify-content-center">
+              <div class="w-100">
+                <div>
+                  <input type="text" placeholder="Business Name" class="w-100" />
+                </div>
+                <div>
+                  <textarea class="w-100" rows="4" placeholder="This Is The Address Of Our Business"></textarea>
+                </div>
+                <div>
+                  <textarea class="w-100" rows="3" placeholder="About Us"></textarea>
+                </div>
+                <div>
+                  <input type="tel" placeholder="Number" class="w-100" />
+                </div>
+                <div>
+                  <label class="checkbox-container"
+                    ><p class="form-text">Agree To Our <span class="form-link-text">Terms And Services</span></p>
+                    <input type="checkbox" />
+                    <span class="checkmark"></span>
+                  </label>
+                </div>
+                <div>
+                  <label class="checkbox-container"
+                    ><p class="form-text">
+                      All Information Provided Is Legit
+                      <input type="checkbox" />
+                      <span class="checkmark"></span>
+                    </p>
+                  </label>
+                </div>
+                <div class="mb-4 mt-5">
+                  <input type="submit" value="Apply" class="pt-1 pb-1 pl-5 pr-5" />
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <!-- form end -->
+      </div>
     </div>
-    <!-- form end -->
+    <!-- main body end -->
     <!-- Bootstrap JS -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script
