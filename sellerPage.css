@@ -1,0 +1,35 @@
+* {
+  font-family: "Dancing Script", cursive;
+}
+
+.shop-name {
+  font-size: 3.5rem;
+  color: #010a43;
+}
+
+.seller-page-box {
+  background-color: #ffc2c2;
+  border-radius: 10px;
+}
+
+.seller-page-headline {
+  font-size: 28px;
+  font-weight: 600;
+  color: #010a43;
+}
+
+.seller-page-text {
+  font-size: 22px;
+  color: #010a43;
+}
+
+.seller-page-button {
+  background-color: #010a43;
+  width: fit-content;
+  color: #ffc2c2;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 28px;
+  font-weight: 700;
+}
