@@ -35,6 +35,8 @@
 }
 
 .no-product-svg {
-  width: 40%;
+  width: 35%;
   filter: opacity(30%);
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
