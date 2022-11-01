@@ -152,7 +152,7 @@ body {
   }
 }
 .main-body {
-  background-image: linear-gradient(to right, #635b86 3%, #bebacd 3% 10%, #ffffff 10% 90%, #f9f1fb 90% 97%, #fcd9e7 97%);
+  background-image: linear-gradient(to right, #635b86 1%, #bebacd 1% 4%, #ffffff 4% 96%, #f9f1fb 96% 99%, #fcd9e7 99%);
 }
 .shop-tag {
   color: #fff;
