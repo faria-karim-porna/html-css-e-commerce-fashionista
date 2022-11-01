@@ -1,5 +1,5 @@
 .product-card{
-    height: 350px;
+    height: 325px;
 }
 .product-card > div{
     background: linear-gradient(45deg, #010A43 50%, #FFC2C2 50%);

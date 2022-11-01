@@ -825,10 +825,10 @@ body {
 {
   color: #ffffff;
   background: linear-gradient(45deg, #010A43 50%, #FFC2C2 50%);
-  font-size: 3.5rem;
+  font-size: 1.5rem;
   letter-spacing: 0.5em;
   font-family: "Dancing Script", cursive;
   margin-top: 50px;
   margin-bottom: 20px;
-  font-weight: 500;
+  font-weight: 700;
 }
