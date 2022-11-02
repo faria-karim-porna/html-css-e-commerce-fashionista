@@ -4,12 +4,14 @@
 .product-card > div {
   background: linear-gradient(45deg, #010a43 50%, #ffc2c2 50%);
   height: 100%;
+  border-radius: 10px;
 }
 .inner-product-card {
   background-color: white;
   padding: 10px;
   width: 100%;
   height: 100%;
+  border-radius: 10px;
 }
 .inner-product-card > img {
   width: 100%;

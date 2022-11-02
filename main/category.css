@@ -1,7 +1,19 @@
 .category {
-  padding: 5px;
+  padding: 7px;
   margin: 5px;
   border-radius: 5px;
+  text-align: center;
+  font-size: 15px;
+  height: 140px;
+  font-family: "Dancing Script", cursive;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+.category > svg {
+  width: inherit;
+  align-self: center;
+  margin-bottom: 5px;
 }
 
 .category:nth-child(2n + 1) {
