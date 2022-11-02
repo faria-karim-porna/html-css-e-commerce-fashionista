@@ -1,0 +1,23 @@
+.category {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.category:nth-child(2n + 1) {
+  background-color: #010a43;
+  color: #ffc2c2;
+}
+
+.category:nth-child(2n + 1) > svg {
+  fill: #ffc2c2;
+}
+
+.category:nth-child(2n) {
+  background-color: #ffc2c2;
+  color: #010a43;
+}
+
+.category:nth-child(2n) > svg {
+  fill: #010a43;
+}
