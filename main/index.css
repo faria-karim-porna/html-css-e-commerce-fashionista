@@ -152,8 +152,8 @@ body {
   }
 }
 .main-body {
-  position: relative;
-  z-index: -1;
+  /* position: relative;
+  z-index: -1; */
   background-image: linear-gradient(to right, #635b86 1%, #bebacd 1% 4%, #ffffff 4% 96%, #f9f1fb 96% 99%, #fcd9e7 99%);
 }
 .shop-tag {
