@@ -1,0 +1,11 @@
+.facility {
+  height: 172px;
+}
+
+.facility:nth-child(2n + 1) {
+  background-color: #ffc2c2;
+}
+
+.facility:nth-child(2n) {
+  background-color: #010a43;
+}
