@@ -1,11 +1,25 @@
 .facility {
   height: 172px;
+  font-size: 25px;
+  font-family: "Dancing Script", cursive;
+  letter-spacing: 0.1em;
+  font-weight: 600;
 }
 
 .facility:nth-child(2n + 1) {
   background-color: #ffc2c2;
+  color: #010a43;
+}
+
+.facility:nth-child(2n + 1) > svg {
+  fill: #010a43;
 }
 
 .facility:nth-child(2n) {
   background-color: #010a43;
+  color: #ffc2c2;
+}
+
+.facility:nth-child(2n) > svg {
+  fill: #ffc2c2;
 }
