@@ -1,0 +1,9 @@
+.footer-box {
+  height: 300px;
+}
+
+.footer-box {
+  background: linear-gradient(to right, #010a43, #ffc2c2);
+  color: white;
+  font-size: 30px;
+}

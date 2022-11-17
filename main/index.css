@@ -1,5 +1,3 @@
-body {
-}
 .header-section {
   z-index: -1;
   height: 100vh;
@@ -823,14 +821,21 @@ body {
   }
 }
 
-.section-name
-{
+.section-name {
   color: #ffffff;
-  background: linear-gradient(45deg, #010A43 50%, #FFC2C2 50%);
+  background: linear-gradient(45deg, #010a43 50%, #ffc2c2 50%);
   font-size: 1.5rem;
   letter-spacing: 0.5em;
   font-family: "Dancing Script", cursive;
   margin-top: 50px;
   margin-bottom: 20px;
   font-weight: 700;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-40 {
+  width: 40%;
 }
