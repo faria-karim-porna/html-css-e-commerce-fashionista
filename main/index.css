@@ -839,3 +839,26 @@
 .w-40 {
   width: 40%;
 }
+
+/************ Scrollbar CSS *****************/
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: #f9f1fb;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #635b86;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #010a43;
+}
