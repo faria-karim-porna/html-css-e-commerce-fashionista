@@ -51,3 +51,15 @@
   left: calc(50% - 10px);
   transform: rotate(45deg);
 }
+
+.social-media-icons {
+  background-color: #010a43;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.social-media-icons > svg {
+  fill: #ffc2c2;
+  height: 40px;
+  width: 40px;
+}
