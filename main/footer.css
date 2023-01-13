@@ -26,37 +26,73 @@
     #ffc2c2 80% 90%,
     #010a43 90% 100%
   ); */
-  color: #010a43;
+  color: #ffc2c2;
   font-size: 30px;
   font-weight: 700;
-  border-right: 5px solid #010a43;
+  /* border-right: 5px solid #010a43; */
 }
 
-#footer-box-1,
-#footer-box-3 {
+#footer-box-1 {
   background: linear-gradient(
     45deg,
-    #010a43 10%,
-    #ffc2c2 10% 20%,
-    #010a43 20% 30%,
-    #ffc2c2 30% 70%,
-    #010a43 70% 80%,
-    #ffc2c2 80% 90%,
-    #010a43 90% 100%
+    #635b86 5%,
+    #fcd9e7 5% 10%,
+    #635b86 10% 15%,
+    #fcd9e7 15% 20%,
+    #635b86 20% 25%,
+    #fcd9e7 25% 30%,
+    #010a43 30% 70%,
+    #635b86 70% 80%,
+    #fcd9e7 80% 90%,
+    #635b86 90% 100%
   );
 }
 
-#footer-box-2,
+#footer-box-2 {
+  background: linear-gradient(
+    180deg,
+    #635b86 5%,
+    #fcd9e7 5% 10%,
+    #635b86 10% 15%,
+    #fcd9e7 15% 20%,
+    #635b86 20% 25%,
+    #fcd9e7 25% 30%,
+    #010a43 30% 70%,
+    #635b86 70% 80%,
+    #fcd9e7 80% 90%,
+    #635b86 90% 100%
+  );
+}
+
+#footer-box-3 {
+  background: linear-gradient(
+    135deg,
+    #635b86 5%,
+    #fcd9e7 5% 10%,
+    #635b86 10% 15%,
+    #fcd9e7 15% 20%,
+    #635b86 20% 25%,
+    #fcd9e7 25% 30%,
+    #010a43 30% 70%,
+    #635b86 70% 80%,
+    #fcd9e7 80% 90%,
+    #635b86 90% 100%
+  );
+}
+
 #footer-box-4 {
   background: linear-gradient(
-    -45deg,
-    #010a43 10%,
-    #ffc2c2 10% 20%,
-    #010a43 20% 30%,
-    #ffc2c2 30% 70%,
-    #010a43 70% 80%,
-    #ffc2c2 80% 90%,
-    #010a43 90% 100%
+    360deg,
+    #635b86 5%,
+    #fcd9e7 5% 10%,
+    #635b86 10% 15%,
+    #fcd9e7 15% 20%,
+    #635b86 20% 25%,
+    #fcd9e7 25% 30%,
+    #010a43 30% 70%,
+    #635b86 70% 80%,
+    #fcd9e7 80% 90%,
+    #635b86 90% 100%
   );
 }
 
