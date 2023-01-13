@@ -4,7 +4,7 @@
 }
 
 .footer-box {
-  height: 300px;
+  height: 250px;
   flex-grow: 1;
   position: relative;
 }
@@ -14,7 +14,7 @@
 }
 
 .footer-titles {
-  height: 300px;
+  height: 250px;
   width: 100%;
   /* background: linear-gradient(
     45deg,
@@ -29,7 +29,7 @@
   color: #010a43;
   font-size: 30px;
   font-weight: 700;
-  border: 10px solid #635b86;
+  border-right: 5px solid #010a43;
 }
 
 #footer-box-1,
@@ -64,7 +64,7 @@
   width: 50% !important;
   background: #010a43 !important;
   color: #ffc2c2 !important;
-  border: none;
+  border-right: none;
 }
 
 .footer-box:hover > .footer-links {
@@ -73,7 +73,7 @@
 }
 
 .footer-links {
-  height: 300px;
+  height: 250px;
   background: #ffc2c2;
   color: #010a43;
   font-size: 20px;
