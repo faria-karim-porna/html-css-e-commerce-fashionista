@@ -16,15 +16,55 @@
 .footer-titles {
   height: 300px;
   width: 100%;
-  background: linear-gradient(to right, #010a43, #ffc2c2);
-  color: white;
+  /* background: linear-gradient(
+    45deg,
+    #010a43 10%,
+    #ffc2c2 10% 20%,
+    #010a43 20% 30%,
+    #ffc2c2 30% 70%,
+    #010a43 70% 80%,
+    #ffc2c2 80% 90%,
+    #010a43 90% 100%
+  ); */
+  color: #010a43;
   font-size: 30px;
+  font-weight: 700;
+  border: 10px solid #635b86;
+}
+
+#footer-box-1,
+#footer-box-3 {
+  background: linear-gradient(
+    45deg,
+    #010a43 10%,
+    #ffc2c2 10% 20%,
+    #010a43 20% 30%,
+    #ffc2c2 30% 70%,
+    #010a43 70% 80%,
+    #ffc2c2 80% 90%,
+    #010a43 90% 100%
+  );
+}
+
+#footer-box-2,
+#footer-box-4 {
+  background: linear-gradient(
+    -45deg,
+    #010a43 10%,
+    #ffc2c2 10% 20%,
+    #010a43 20% 30%,
+    #ffc2c2 30% 70%,
+    #010a43 70% 80%,
+    #ffc2c2 80% 90%,
+    #010a43 90% 100%
+  );
 }
 
 .footer-box:hover > .footer-titles {
   width: 50% !important;
   background: #010a43 !important;
   color: #ffc2c2 !important;
+  border: none;
 }
 
 .footer-box:hover > .footer-links {
