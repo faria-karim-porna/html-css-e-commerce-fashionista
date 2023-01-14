@@ -1,0 +1,45 @@
+.special-offer-section {
+  height: 445px;
+}
+
+.special-offer-border {
+  background: linear-gradient(45deg, #010a43 50%, #ff8f9c 50%);
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.special-offer-body {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.special-offer-body img {
+  height: 350px;
+}
+
+.special-offer-title {
+  color: #010a43;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.special-offer-details {
+  color: #ff8f9c;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.special-offer-price {
+  color: #010a43;
+  font-size: 28px;
+  font-weight: 700;
+}
+/* .special-offer-price-old{} */
+/* .special-offer-field{} */
+/* .special-offer-value{} */
+/* .special-offer-text{} */
