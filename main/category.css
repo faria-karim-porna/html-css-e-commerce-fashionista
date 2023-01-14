@@ -51,3 +51,7 @@
 .category:nth-child(2n) > svg {
   fill: #010a43;
 }
+
+.category:hover{
+  transform: scale(1.1);
+}
