@@ -175,7 +175,7 @@
   transform: rotate(0deg);
   writing-mode: vertical-rl;
   text-align: center;
-  font-family: "Dancing Script", cursive;
+  font-family:"Poppins", sans-serif;
   -webkit-text-stroke: 2px #010a43;
   position: absolute;
   right: 130px;
@@ -826,7 +826,7 @@
   background: linear-gradient(45deg, #010a43 50%, #ff8f9c 50%);
   font-size: 1.5rem;
   letter-spacing: 0.5em;
-  font-family: "Dancing Script", cursive;
+  font-family:"Poppins", sans-serif;
   margin-top: 50px;
   margin-bottom: 20px;
   font-weight: 700;
@@ -837,7 +837,7 @@
   background: #ff8f9c;
   font-size: 1.5rem;
   letter-spacing: 0.5em;
-  font-family: "Dancing Script", cursive;
+  font-family:"Poppins", sans-serif;
   margin-top: 50px;
   margin-bottom: 20px;
   font-weight: 700;
