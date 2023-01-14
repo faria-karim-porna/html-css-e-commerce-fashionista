@@ -7,7 +7,7 @@
 }
 
 .facility:nth-child(2n + 1) {
-  background-color: #ffc2c2;
+  background-color: #ff8f9c;
   color: #010a43;
 }
 
@@ -17,9 +17,9 @@
 
 .facility:nth-child(2n) {
   background-color: #010a43;
-  color: #ffc2c2;
+  color: #ff8f9c;
 }
 
 .facility:nth-child(2n) > svg {
-  fill: #ffc2c2;
+  fill: #ff8f9c;
 }

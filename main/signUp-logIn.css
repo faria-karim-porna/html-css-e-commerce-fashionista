@@ -16,7 +16,7 @@ input[type="password"] {
 }
 
 input[type="submit"] {
-  background-color: #ffc2c2;
+  background-color: #ff8f9c;
   color: #010a43;
   padding: 5px;
   border: none;
@@ -33,7 +33,7 @@ input[type="submit"] {
 }
 input[type="submit"]:hover {
   background-color: #010a43;
-  color: #ffc2c2;
+  color: #ff8f9c;
 }
 
 input:focus {
@@ -55,7 +55,7 @@ input:focus {
 }
 
 .signUp-logIn-page {
-  background: linear-gradient(45deg, #010a43 50%, #ffc2c2 50%);
+  background: linear-gradient(45deg, #010a43 50%, #ff8f9c 50%);
 }
 
 .signUp-logIn-text {
@@ -63,7 +63,7 @@ input:focus {
 }
 
 .signUp-logIn-link-text {
-  color: #ffc2c2;
+  color: #ff8f9c;
   text-decoration: underline;
   cursor: pointer;
 }
@@ -108,7 +108,7 @@ input:focus {
   
   /* When the checkbox is checked, add a blue background */
   .checkbox-container input:checked ~ .checkmark {
-    background-color: #ffc2c2;
+    background-color: #ff8f9c;
   }
   
   /* Create the checkmark/indicator (hidden when not checked) */

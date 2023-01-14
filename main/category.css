@@ -36,15 +36,15 @@
 
 .category:nth-child(2n + 1) {
   background-color: #010a43;
-  color: #ffc2c2;
+  color: #ff8f9c;
 }
 
 .category:nth-child(2n + 1) > svg {
-  fill: #ffc2c2;
+  fill: #ff8f9c;
 }
 
 .category:nth-child(2n) {
-  background-color: #ffc2c2;
+  background-color: #ff8f9c;
   color: #010a43;
 }
 

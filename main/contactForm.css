@@ -15,7 +15,7 @@ body {
 
 .form-label {
   font-weight: 600;
-  color: #ffc2c2;
+  color: #ff8f9c;
   font-size: 18px;
   padding-top: 10px;
 }
@@ -34,7 +34,7 @@ body {
 .form-button {
   width: 50%;
   color: #010a43;
-  background-color: #ffc2c2;
+  background-color: #ff8f9c;
   font-size: 22px;
   font-weight: 700;
   border-radius: 10px;
@@ -45,7 +45,7 @@ body {
 }
 
 .form-text-title {
-  color: #ffc2c2;
+  color: #ff8f9c;
   font-weight: 700;
   font-size: 22px;
   margin: 10px 0px 10px 0px;
@@ -57,7 +57,7 @@ body {
 }
 
 .social-media-icons {
-  background-color: #ffc2c2;
+  background-color: #ff8f9c;
   padding: 5px;
   margin-right: 10px;
   border-radius: 10px;
